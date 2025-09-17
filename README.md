@@ -7,7 +7,7 @@
 
 
 ## ViewController.swift
-```swift
+``` Swift
 import UIKit
 
 class ViewController: UIViewController {
